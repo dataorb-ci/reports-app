@@ -1,8 +1,7 @@
 {
-  "app_hub_id": "b7e619e4-5b9f-4b8b-a4ff-9874f197ae39",
   "appType": "APP",
-  "short_name": "reports",
-  "name": "Reports",
+  "short_name": "reports-pro",
+  "name": "Reports Pro",
   "description": "",
   "version": "100.0.52",
   "core_app": true,
